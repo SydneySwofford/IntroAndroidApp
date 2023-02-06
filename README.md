@@ -27,11 +27,11 @@ Here's a walkthrough of implemented features:
 
 
 GIF created with 
-<!-- ScreenToGif-->
+ScreenToGif
 
 ## Notes
 
-Building this intro app was fun, and its got me thinking about a lot of improvements I can add to make the design more aesthetically pleasing. 
+Building this intro app was fun, and its got me thinking about a lot of improvements I can add to make the design more aesthetically pleasing. I want to explore more complexity with screens and buttons!
 
 ## License
 
